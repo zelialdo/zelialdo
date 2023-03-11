@@ -1,6 +1,5 @@
 ### Oi! Eu sou o Zelialdo Sueldo.
 
-- 🌱 Estudando API Rest com Spring Boot.
 
 ##
 
